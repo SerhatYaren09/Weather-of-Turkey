@@ -1,3 +1,3 @@
 #
-Context API kullanılarak Türkiye'nin tüm illerinin bir haftalık hava raporunu görüntüleyebilmeliyiz.
+Context API kullanılarak Türkiye'nin tüm illerinin bir haftalık hava raporunu görüntüleme tasarlanmıştır.
 #
